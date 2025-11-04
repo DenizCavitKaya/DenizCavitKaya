@@ -1,4 +1,4 @@
-[![MasterHead]https://www.nicepng.com/maxp/u2t4t4q8r5r5y3a9/
+
 
 <h1 align="center">Hi 👋, I'm Deniz Cavit Kaya</h1>
 <h3 align="center">Cybersecurity student in Türkiye.</h3>
