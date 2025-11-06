@@ -50,6 +50,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DenizCavitKaya/DenizCavitKaya/output/snake.svg" alt="Snake animation" />
 
 ###
